@@ -1,0 +1,8 @@
+Rencana Konten
+
+- JAVASCRIPT
+  * ES6
+  * FRAMEWORK JS
+- PHP FRAMEWORK
+- INTERVIEW
+- VLOG
