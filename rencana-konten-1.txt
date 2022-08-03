@@ -4,6 +4,7 @@ Rencana Konten
   * ES6
   * FRAMEWORK JS
    ^ VUE
+   ^ REACT
 - STRUKTUR DATA DASAR
 - PHP FRAMEWORK
  ^ LARAVEL
